@@ -28,7 +28,7 @@ public class Project1Algorithms {
         Window window=new GUI.Window();
         window.setVisible(true);
         ArchivoData archivoData = new ArchivoData();
-        archivoData.leerArchivo();
+        //archivoData.leerArchivo();
         
     }
     
